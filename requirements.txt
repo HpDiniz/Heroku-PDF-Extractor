@@ -1,12 +1,9 @@
-io
+pandas
+PyPDF2
+pdfminer
 re
-os
 json
 uuid
 flask
 base64
-pandas
-PyPDF2
-pdfminer
 openpyxl
-datetime
